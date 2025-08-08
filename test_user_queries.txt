@@ -1,0 +1,10 @@
+  Sample User Queries:
+
+  1. Weather queries:
+    - "What's the weather like in London?"
+    - "Get me the current weather for Tokyo, Japan"
+    - "Check weather conditions in New York"
+  2. Financial calculation queries:
+    - "Calculate compound interest on $10,000 at 5% for 10 years"
+    - "If I invest $5000 at 3.5% compounded quarterly for 15 years, how much will I have?"
+    - "What's the final amount for $25000 invested at 7% annually for 20 years?"
